@@ -1,3 +1,11 @@
+# Xelous's Branch
+The first thing to know is I am not the originator of this code, I am only an interested spectator, and am going to be using this code as a third part of my C++ Coding Guidelines video series as a) it's interesting code b) it's a quite well done ECS implementation and c) it's not in my coding standard.
+
+The latter point is ONLY my point, I am not judging code, I am not deciding what may or may not be better, I am simply applying my own personal preferences as I iterate over the code, the purpose of which is to further my understanding of the code, but to also made the mode more readable to myself.
+
+# Windows/Visual Studio 2017 (C++17)
+My first step is to create an msvc subdirectory and begin adding a Windows Solution, though I aim to keep all the code cross platform (and it is with the makefiles already included) but I do prefer to use Visual Studio.
+
 # NomadECS
 Nomad ECS is an entity component system implemention. More information about this project can be found on its homepage: https://savas.ca/nomad. Star this repo if you're a fan!
 
