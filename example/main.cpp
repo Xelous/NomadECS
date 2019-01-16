@@ -1,5 +1,5 @@
 #include <iostream>
-#include "nomadecs/nomad.h"
+#include "../src/nomad.h"
 
 using namespace nomad;
 
